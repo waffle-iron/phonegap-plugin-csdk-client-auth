@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/CreativeSDK/phonegap-plugin-csdk-client-auth.png?label=ready&title=Ready)](https://waffle.io/CreativeSDK/phonegap-plugin-csdk-client-auth)
 <!--
 #
 # Licensed to the Apache Software Foundation (ASF) under one
